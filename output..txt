@@ -1,0 +1,32 @@
+******************* Starting execution **********************
+
+Successfully read the data.
+Getting the data ready.
+
+	Plotting the initial data.
+	Saved the initial data plotted to initialDataPlot.jpg.
+
+	Normalizing the data.
+	Done with normalization of data.
+
+	Plotting the Normalized data.
+	Saved the normalized data plot to normalizedData.jpg.
+
+	Minimizing the cost function and finding the optimal theta values.
+	Done with minimizing of the cost function and finding the optimal theta values.
+
+	Plotting the hypothesis.
+	Saved the hypothesis plotted to hypothesis.jpg.
+
+	 __________________________ Results __________________________
+
+	Final result theta parameters:  340412.563014392 109371.67272251888 -6502.399254504505
+
+	Testing value used:  [1650.    3.]
+	Testing value after normalization:  [1, -0.4460438603276164, -0.2260933675776883]
+
+	Price of house with 1650 square feet and 3 bedrooms must be around: $293098.15
+
+	Prediction for price of house with 1650 square feet and 3 bedrooms: $293081.46
+
+******************* Exiting **********************
